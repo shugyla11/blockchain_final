@@ -1,4 +1,4 @@
-# Blockchain Animal Welfare Charity
+# Blockchain Animal Charity
 
 This project is a blockchain-based application designed to support animal welfare through donations. It leverages Ethereum blockchain technology to create a transparent and secure system for managing and tracking donations.
 
