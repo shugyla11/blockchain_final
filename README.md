@@ -63,6 +63,3 @@ A step-by-step series of examples that tell you how to get a development environ
 - Fill out your name, email, and message.
 - Submit the form. Your feedback and contact information will be securely stored in MongoDB Atlas.
 
-## Authors
-
-- **Orazaly Makambet** - [Ozzy0153](https://github.com/YourUsername)
